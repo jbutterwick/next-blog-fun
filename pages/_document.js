@@ -2,11 +2,11 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Next.js Blog Starter Kit',
-    description: 'Clone and deploy your own Next.js portfolio in minutes.',
+    title: 'Kenz\'s Blog',
+    description: 'Like a sphynx in the night',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
-
+// :this is what my entire life has turned into
   return (
     <Html lang="en">
       <Head>
